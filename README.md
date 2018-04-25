@@ -1,2 +1,2 @@
 # Natural Language Processing
-## by Wookjin Jang
+<center> ## Wookjin Jang </center>
