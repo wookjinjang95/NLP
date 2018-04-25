@@ -1,0 +1,11 @@
+Most Informative Features
+           liwc:negative = 1              negati : positi =      3.0 : 1.0
+           liwc:positive = None           negati : positi =      3.0 : 1.0
+                 UNI_the = 0.05263157894736842 negati : positi =      3.0 : 1.0
+        Positive Emotion = 12.5           positi : negati =      3.0 : 1.0
+        Positive Emotion = 4.166666666666667 negati : positi =      3.0 : 1.0
+                UNI_food = 0.1            positi : negati =      3.0 : 1.0
+        Positive Emotion = 11.11111111111111 positi : negati =      3.0 : 1.0
+        Positive Emotion = 16.666666666666668 positi : negati =      2.6 : 1.0
+                 UNI_the = 0.058823529411764705 negati : positi =      2.3 : 1.0
+        Positive Emotion = 5.882352941176471 positi : negati =      2.3 : 1.0

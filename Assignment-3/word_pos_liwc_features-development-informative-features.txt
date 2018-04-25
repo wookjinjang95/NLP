@@ -1,0 +1,11 @@
+Most Informative Features
+             UNI_POS_VBD = None           positi : negati =      7.3 : 1.0
+           liwc:positive = None           negati : positi =      5.0 : 1.0
+           liwc:negative = 1              negati : positi =      5.0 : 1.0
+        Positive Emotion = 0              negati : positi =      3.9 : 1.0
+              UNI_POS_RB = None           positi : negati =      2.7 : 1.0
+              UNI_POS_IN = None           positi : negati =      2.7 : 1.0
+           BI_POS_NN_VBD = None           positi : negati =      2.4 : 1.0
+           BI_POS_VBD_RB = None           positi : negati =      2.4 : 1.0
+            BI_POS_DT_NN = 0.045454545454545456 negati : positi =      2.3 : 1.0
+              UNI_POS_DT = 0.09090909090909091 negati : positi =      2.3 : 1.0

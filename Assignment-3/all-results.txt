@@ -1,0 +1,21 @@
+All the results are recorded on the output-best.txt and other text files.
+The things I did differently than other features is using only certain features.
+I decided to only look for the unigram of the feature. Since having two combinations
+of word such as bigram will slow down the process and does not really look the way
+I think it should look for.
+
+Reviews are sometimes can be short and sometimes can be long. As a human being, we tend to
+write reviews pretty short but straight to the point. We tend to use strong words such as
+'best', 'amazing', 'great' in positive comments to be straight to the point.
+Since reviews are not usually essay but instead, it is a opinion. Therefore, I believe
+that using unigram will be perfect fit for running the classifier.
+
+Therefore, I only have features in my vector for unigram and liwc. Liwc is really helpful
+to get the accuracy more done. Through these two features, I was able to get around 62% accuracy.
+Because in lack of time, if I had more time to do so, I want to get rid of punctuation or article
+in sentences so that the computation runs smoothly. I also want to focus on adjective and
+word that describe something like a word 'best' and multiply by the distribution in the label.
+
+I didn't add POS feature because I believe that part of speech doesn't have to do with
+anything when it comes to reviewing something. As a human, we don't see POS to decide whether
+the comment is negative or positive. We look for words that describe something.

@@ -1,0 +1,7 @@
+Synset('apple.n.01'): fruit with red or yellow or green skin and sweet to tart crisp whitish flesh
+Synset('apple.n.02'): native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits
+hypernyms: [Synset('edible_fruit.n.01'), Synset('pome.n.01')]
+hyponyms: [Synset('cooking_apple.n.01'), Synset('crab_apple.n.03'), Synset('eating_apple.n.01')]
+['entity.n.01', 'physical_entity.n.01', 'object.n.01', 'whole.n.02', 'natural_object.n.01', 'plant_part.n.01', 'plant_organ.n.01', 'reproductive_structure.n.01', 'fruit.n.01', 'edible_fruit.n.01', 'apple.n.01']
+['entity.n.01', 'physical_entity.n.01', 'matter.n.03', 'solid.n.01', 'food.n.02', 'produce.n.01', 'edible_fruit.n.01', 'apple.n.01']
+['entity.n.01', 'physical_entity.n.01', 'object.n.01', 'whole.n.02', 'natural_object.n.01', 'plant_part.n.01', 'plant_organ.n.01', 'reproductive_structure.n.01', 'fruit.n.01', 'pome.n.01', 'apple.n.01']

@@ -1,0 +1,31 @@
+word_pos_features on testing data
+Accuracy: 0.55
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<22>28 |
+positive | 17<33>|
+---------+-------+
+(row = reference; col = test)
+
+word_pos_features on development data
+Accuracy: 0.57
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<24>26 |
+positive | 17<33>|
+---------+-------+
+(row = reference; col = test)

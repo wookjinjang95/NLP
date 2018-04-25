@@ -1,0 +1,94 @@
+1. The 15 most frequent words are
+  - for positive:
+  (('food',), 124), ('food', FreqDist({'excellent': 12, 'service': 8, 'great': 8, 'wonderful': 6, 'good': 6, 'served': 3, 'prepared': 3, 'even': 3, 'ample': 2, 'average': 2, ...}))
+  (('great',), 83), ('great', FreqDist({'food': 13, 'place': 9, 'service': 4, 'prices': 2, 'also': 2, 'bargain': 2, 'meal': 2, 'great': 2, 'value': 2, 'night': 1, ...}))
+  (('place',), 61), ('place', FreqDist({'anyone': 3, 'eat': 3, 'dine': 3, 'take': 2, 'great': 2, 'food': 2, 'service': 2, 'late-night': 1, 'glad': 1, 'modern': 1, ...}))
+  (('restaurant',), 55), ('restauranteurs', FreqDist({'high': 1}))
+  (('service',), 54), ('services', FreqDist({'housing': 1}))
+  (('good',), 53), ('good', FreqDist({'food': 2, 'place': 2, 'portions': 1, 'job': 1, 'servers': 1, 'vittles': 1, '4-5': 1, 'deal': 1, 'soup': 1, 'service': 1, ...}))
+  (('best',), 43), ('best', FreqDist({'tasting': 3, 'ever': 3, 'restaurant': 2, 'food': 2, 'sushi': 2, 'thing': 2, 'valentine': 1, 'lamb': 1, 'new': 1, 'thai': 1, ...}))
+  (('excellent',), 38), ('excellent', FreqDist({'service': 4, 'food': 3, 'restaurant': 2, 'always': 1, 'wow': 1, 'variety': 1, 'abundant': 1, 'also': 1, 'think': 1, 'altogether': 1, ...}))
+  (('one',), 37), ('one', FreqDist({'best': 2, 'eat': 2, 'pleasant': 1, 'two': 1, 'many': 1, 'questions': 1, 'guest': 1, 'nibble': 1, 'piece': 1, 'private': 1, ...}))
+  (("n't",), 37), ("n't", FreqDist({'wait': 2, 'good': 2, 'go': 2, 'ask': 1, 'arrive': 1, 'see': 1, 'forget': 1, 'one': 1, 'accept': 1, 'fancy': 1, ...}))
+  (('menu',), 35), 'menu', FreqDist({'best': 2, 'food': 2, 'something': 1, 'board': 1, '18': 1, 'one': 1, 'take': 1, 'outstanding': 1, 'versatile': 1, 'well': 1, ...}))
+  (('time',), 34), ('times', FreqDist({'always': 2, 'different': 1, 'disappointed': 1, 'occasionally': 1, 'food': 1, 'varying': 1, 'probably': 1, 'far': 1, 'service': 1, 'go': 1, ...}))
+  (('wonderful',), 33), ('wonderful', FreqDist({'service': 5, 'food': 3, 'something': 1, 'evening': 1, 'italian': 1, 'didnt': 1, 'diner': 1, 'especially': 1, 'picky': 1, 'young': 1, ...}))
+  (('atmosphere',), 29), ('atmosphere', FreqDist({'great': 4, 'warm': 2, 'excellent': 2, 'food': 2, 'red': 1, 'attention': 1, 'along': 1, 'lacks': 1, 'really': 1, 'dark': 1, ...}))
+  (('dinner',), 24), ('dinner', FreqDist({'portions': 3, 'ever': 2, 'laid': 1, 'try': 1, 'huge': 1, 'planning': 1, 'fare': 1, 'hours': 1, 'served': 1, 'around': 1, ...}))
+
+  - for negative
+  (('food',), 149), ('food', FreqDist({'cold': 7, 'less': 3, 'service': 3, 'ok': 3, 'good': 3, 'quality': 2, 'decent': 2, 'tasty': 2, 'brought': 2, 'poisoning': 2, ...}))
+  (('restaurant',), 96), ('restaurants', FreqDist({'area': 1, 'someone': 1, 'dallas': 1, 'vancouver': 1, 'area-': 1, 'left': 1, 'dine': 1, 'across': 1, 'coast': 1}))
+  (('us',), 95), ('us', FreqDist({'ordered': 2, "n't": 2, 'another': 2, 'table': 2, 'tried': 2, 'one': 2, 'feel': 2, 'check': 2, 'change': 2, 'highly': 1, ...}))
+  (('service',), 89), ('service', FreqDist({'food': 6, 'horrible': 4, 'slow': 4, 'terrible': 3, "n't": 2, 'awful': 2, 'bad': 2, 'beyond': 2, 'poor': 2, 'lousy': 2, ...}))
+  (("n't",), 88), ("n't", FreqDist({'know': 6, 'even': 6, 'get': 6, 'eat': 3, 'care': 3, 'show': 3, 'want': 3, 'take': 2, 'worth': 2, 'think': 2, ...}))
+  (('one',), 72), ('one', FreqDist({'person': 4, 'worst': 4, 'order': 2, 'us': 2, 'would': 2, 'good': 2, 'new': 1, 'large': 1, 'waiter': 1, 'local': 1, ...}))
+  (('place',), 68), ('place', FreqDist({'order': 4, 'nice': 2, 'go': 2, 'service': 2, 'food': 2, 'found': 1, 'soooo': 1, 'special': 1, 'opposite': 1, 'prime': 1, ...}))
+  (('table',), 60), ('table', FreqDist({'told': 3, 'food': 2, 'server': 2, 'one': 2, '6': 2, 'friends': 1, 'dirty': 1, 'placed': 1, 'cold': 1, 'scraps': 1, ...}))
+  (('would',), 57), ('would', FreqDist({'never': 4, "n't": 4, 'go': 3, 'better': 2, 'recommend': 2, 'take': 2, 'great': 2, 'rite': 1, 'pay': 1, 'listen': 1, ...}))
+  (('good',), 53), ('good', FreqDist({'food': 3, 'value': 3, 'waiter': 3, 'service': 2, 'taste': 2, 'daughters': 1, 'spanish': 1, '6': 1, 'ketchup': 1, 'ignores': 1, ...}))
+  (('back',), 51), ('back', FreqDist({'food': 3, 'would': 3, 'back': 2, 'well': 2, 'check': 2, 'room': 1, 'drinks': 1, 'cook': 1, 'informed': 1, 'way': 1, ...}))
+  (('go',), 49), ('go', FreqDist({'back': 10, 'somewhere': 3, 'away': 3, 'way': 3, 'eat': 1, 'like': 1, 'downtown': 1, 'excellent': 1, 'one': 1, 'come': 1, ...}))
+  (('never',), 45), ('never', FreqDist({'go': 5, 'brought': 3, 'checked': 3, 'even': 3, 'return': 3, 'recommend': 2, 'returned': 2, 'asked': 2, 'satisfied': 1, 'really': 1, ...}))
+  (('experience',), 43), ('experience', FreqDist({'food': 3, 'ever': 3, 'would': 2, 'hilltop': 1, 'wants': 1, 'sunset': 1, 'asked': 1, 'always': 1, 'left': 1, 'worse-': 1, ...}))
+  (('even',), 43), ('even', FreqDist({'apologize': 2, 'though': 2, 'small': 1, 'pour': 1, 'could': 1, 'eat': 1, 'much': 1, "n't": 1, 'understand': 1, 'added': 1, ...}))
+
+2. Collocations found:
+    content: positive
+      chez capo; highly recommend; pancake house; san francisco; mashed
+      potatoes; millbrae pancake; wine list; rosa negra; several times;
+      worth trip; big city; food excellent; sure try; head chef; something
+      everyone; ala carte; eastern market; outdoor patio; ravioli browned;
+      years ago
+
+    content: negative
+      prime rib; coral grill; dining experience; fried rice; number one;
+      crab legs; taco bell; tourist trap; local boys; needless say; 227
+      bistro; looked like; speak manager; health department; sunset
+      restaurant; wait staff; medium rare; pattio area; food cold; come back
+
+3. Note that I am only doing for the positive content since there was no instruction to do for all of the category.
+
+    First sentence: An excellent restaurant.
+    Thus, taking out 'An' by the stopwords,
+      P(excellent, restaurant) = P(excellent)P(restaurant|excellent)
+      P(excellent) = excellent repeated / total words
+      P(excellent) = 38 / 8372 = 0.0454
+
+    Then,
+      P(restaurant|excellent)
+      P(restaurant|excellent) = 0.0454*(2/38) = 0.002389.
+      P(restaurant|excellent) = 0.2389%
+
+    Note that the number 38 is the total output of bigrams given 'excellent'
+
+4. Note that I am only doing for the negative texts content since there was no instruction to do for all of the category.
+
+    First sentence: An excellent restaurant.
+    Thus, it does all word since there is no stopwords removing this time.
+
+      P(An, excellent, restaurant) = P(An)P(excellent|An)P(restaurant|An excellent)
+
+    which is probability of (An) and probability of 'An excellent' using bigrams and probability of 'An excellent restaurant'
+    using trigrams. Calculate the each probability and multiply three of them together.
+    (example)
+    P(An) = 27/13853 = 0.001949
+    P(excellent and An) = 0.001949*3/27
+    P(excellent and An and restaurant) = 0.001949*3/27* ..
+
+    Here, we are using second order of Markov Assumptions.
+    If there was 4-grams, we will be looking third order of Markov Assumptions.
+
+5. To calculate the mashed or potatoes probability, I have to calculate P(mashed) and P(potatoes) and add them together.
+    Thus, P(mashed) + P(potatoes).
+    P(potatoes) = 10/6408
+    P(mashed) = 7/6408
+
+    Thus P(mashed or potatoes) = 17/6408
+
+6. A sentence that is not in your training data will come out as zero percent because as the calculation goes through,
+  you will face zero samples in total of frequency, which brings all multiplication to zero at the end.
+
+7. Not really. If you are collecting just only sentences like in the social media such as twitter that only provides
+   samples of sentences within 4~5 words, doing n-grams of 4th and 5th is not helpful at all when it comes to comparison
+   or probability calculation.

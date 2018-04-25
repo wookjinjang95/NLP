@@ -1,0 +1,11 @@
+Most Informative Features
+              UNI_POS_RB = None           positi : negati =      4.1 : 1.0
+             UNI_POS_VBD = None           positi : negati =      3.8 : 1.0
+               UNI_POS_. = 0.1            positi : negati =      3.7 : 1.0
+              UNI_POS_RB = 0.07692307692307693 negati : positi =      3.7 : 1.0
+           liwc:negative = 1              negati : positi =      3.0 : 1.0
+           liwc:positive = None           negati : positi =      3.0 : 1.0
+             UNI_POS_VBD = 0.09090909090909091 positi : negati =      3.0 : 1.0
+              UNI_POS_DT = 0.125          positi : negati =      3.0 : 1.0
+              UNI_POS_IN = 0.07142857142857142 positi : negati =      3.0 : 1.0
+             UNI_POS_NNS = 0.05           positi : negati =      3.0 : 1.0

@@ -1,0 +1,31 @@
+word_features_classifier on testing data
+Accuracy: 0.58
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<21>29 |
+positive | 13<37>|
+---------+-------+
+(row = reference; col = test)
+
+word_features_classifier on development data
+Accuracy: 0.59
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<18>32 |
+positive |  9<41>|
+---------+-------+
+(row = reference; col = test)

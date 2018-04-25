@@ -1,0 +1,11 @@
+Most Informative Features
+                 UNI_the = 0.05263157894736842 negati : positi =      3.0 : 1.0
+                UNI_food = 0.1            positi : negati =      3.0 : 1.0
+                 UNI_the = 0.058823529411764705 negati : positi =      2.3 : 1.0
+             UNI_service = 0.043478260869565216 negati : positi =      2.3 : 1.0
+          UNI_experience = 0.058823529411764705 negati : positi =      2.3 : 1.0
+                UNI_food = 0.034482758620689655 negati : positi =      2.3 : 1.0
+               UNI_great = 0.05555555555555555 positi : negati =      2.3 : 1.0
+                UNI_food = 0.08333333333333333 positi : negati =      2.3 : 1.0
+                UNI_food = 0.041666666666666664 positi : negati =      2.3 : 1.0
+                UNI_food = 0.05555555555555555 positi : negati =      1.9 : 1.0

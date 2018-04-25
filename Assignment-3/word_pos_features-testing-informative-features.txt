@@ -1,0 +1,11 @@
+Most Informative Features
+             UNI_POS_VBD = None           positi : negati =      4.1 : 1.0
+              UNI_POS_RB = None           positi : negati =      3.4 : 1.0
+              UNI_POS_VB = None           positi : negati =      2.6 : 1.0
+            BI_POS_IN_DT = 0.03125        positi : negati =      2.3 : 1.0
+          BI_POS_PRP_VBD = None           positi : negati =      2.2 : 1.0
+              UNI_POS_IN = None           positi : negati =      2.2 : 1.0
+             UNI_POS_VBN = None           positi : negati =      2.2 : 1.0
+            BI_POS_JJ_NN = None           negati : positi =      2.1 : 1.0
+            BI_POS_TO_VB = None           positi : negati =      2.0 : 1.0
+            BI_POS_DT_NN = None           positi : negati =      1.9 : 1.0

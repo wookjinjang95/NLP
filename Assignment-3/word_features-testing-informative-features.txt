@@ -1,0 +1,11 @@
+Most Informative Features
+                   UNI_i = 0.05263157894736842 negati : positi =      1.7 : 1.0
+                 UNI_n't = 0.023809523809523808 negati : positi =      1.7 : 1.0
+                 UNI_the = 0.038461538461538464 positi : negati =      1.7 : 1.0
+           UNI_extremely = 0.038461538461538464 positi : negati =      1.7 : 1.0
+          UNI_restaurant = 0.023255813953488372 negati : positi =      1.7 : 1.0
+                 UNI_the = 0.08333333333333333 negati : positi =      1.7 : 1.0
+                   UNI_i = 0.05555555555555555 positi : negati =      1.7 : 1.0
+               UNI_would = 0.038461538461538464 positi : negati =      1.7 : 1.0
+             UNI_minutes = 0.014492753623188406 negati : positi =      1.7 : 1.0
+                   UNI_i = None           positi : negati =      1.6 : 1.0
