@@ -1,5 +1,7 @@
 Instruction for homework assignment 4
 
+**Make sure to download GoogleNews-vectors-negative300.bin <-- this is an open source file can be found anywhere on webstie**
+
   python3 features.py:
 
     This command will produce the part 1 and also part 2. Below the features.py,
@@ -26,4 +28,5 @@ Instruction for homework assignment 4
     I selected were word_bin and word_features. Due to lack of time, I never had a chance to do the
     feature seletion, but I believe that will get me result of 70% or above.
 
-  x
+  
+ 
