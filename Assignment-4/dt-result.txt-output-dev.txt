@@ -1,0 +1,19 @@
+Results of result.txt:
+
+Accuracy    0.53115
+
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<75>76 |
+positive | 67<87>|
+---------+-------+
+(row = reference; col = test)
+
+

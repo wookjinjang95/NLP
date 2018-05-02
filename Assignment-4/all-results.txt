@@ -1,0 +1,296 @@
+Results of word_features on testing:
+
+Accuracy    0.59000
+
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<40>10 |
+positive | 31<19>|
+---------+-------+
+(row = reference; col = test)
+
+Results of word_features on development:
+
+Accuracy    0.55000
+
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<34>16 |
+positive | 29<21>|
+---------+-------+
+(row = reference; col = test)
+
+Results of word_pos_features on testing:
+
+Accuracy    0.56000
+
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<42> 8 |
+positive | 36<14>|
+---------+-------+
+(row = reference; col = test)
+
+Results of word_pos_features on development:
+
+Accuracy    0.47000
+
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<40>10 |
+positive | 43 <7>|
+---------+-------+
+(row = reference; col = test)
+
+Results of word_pos_liwc_features on testing:
+
+Accuracy    0.56000
+
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<42> 8 |
+positive | 36<14>|
+---------+-------+
+(row = reference; col = test)
+
+Results of word_pos_liwc_features on development:
+
+Accuracy    0.47000
+
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<40>10 |
+positive | 43 <7>|
+---------+-------+
+(row = reference; col = test)
+
+Result of word_feature with part 2
+Accuracy  0.885
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<83>17 |
+positive |  6<94>|
+---------+-------+
+
+Accuracy  0.6190476190476191
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<16>35 |
+positive |  5<49>|
+---------+-------+
+(row = reference; col = test)
+
+The accuracy of result.txt is
+0.6426229508196721
+         |   n   p |
+         |   e   o |
+         |   g   s |
+         |   a   i |
+         |   t   t |
+         |   i   i |
+         |   v   v |
+         |   e   e |
+---------+---------+
+negative | <48>103 |
+positive |   6<148>|
+---------+---------+
+
+Result of word_pos_feature with part 2
+The accuracy of result.txt is
+0.895
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<85>15 |
+positive |  6<94>|
+---------+-------+
+
+The accuracy of result.txt is
+0.6190476190476191
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<17>34 |
+positive |  6<48>|
+---------+-------+
+
+The accuracy of result.txt is
+0.639344262295082
+         |   n   p |
+         |   e   o |
+         |   g   s |
+         |   a   i |
+         |   t   t |
+         |   i   i |
+         |   v   v |
+         |   e   e |
+---------+---------+
+negative | <49>102 |
+positive |   8<146>|
+---------+---------+
+
+Result of word_binning in part 2
+The accuracy of result.txt is
+0.89
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<88>12 |
+positive | 10<90>|
+---------+-------+
+(row = reference; col = test)
+
+The accuracy of result.txt is
+0.6095238095238096
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<16>35 |
+positive |  6<48>|
+---------+-------+
+(row = reference; col = test)
+
+The accuracy of result.txt is
+0.639344262295082
+         |   n   p |
+         |   e   o |
+         |   g   s |
+         |   a   i |
+         |   t   t |
+         |   i   i |
+         |   v   v |
+         |   e   e |
+---------+---------+
+negative | <50>101 |
+positive |   9<145>|
+---------+---------+
+(row = reference; col = test)
+
+Result of word_embedding with part 2
+The accuracy of result.txt is
+0.795
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<81>19 |
+positive | 22<78>|
+---------+-------+
+(row = reference; col = test)
+
+The accuracy of result.txt is
+0.5047619047619047
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<43> 8 |
+positive | 44<10>|
+---------+-------+
+(row = reference; col = test)
+
+The accuracy of result.txt is
+0.5967213114754099
+         |   n   p |
+         |   e   o |
+         |   g   s |
+         |   a   i |
+         |   t   t |
+         |   i   i |
+         |   v   v |
+         |   e   e |
+---------+---------+
+negative |<129> 22 |
+positive | 101 <53>|
+---------+---------+
+(row = reference; col = test)

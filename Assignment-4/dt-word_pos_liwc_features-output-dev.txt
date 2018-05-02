@@ -1,0 +1,19 @@
+Results of word_pos_liwc_features:
+
+Accuracy    0.47000
+
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<40>10 |
+positive | 43 <7>|
+---------+-------+
+(row = reference; col = test)
+
+

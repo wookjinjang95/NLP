@@ -1,0 +1,19 @@
+Results of word_features:
+
+Accuracy    0.55000
+
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<34>16 |
+positive | 29<21>|
+---------+-------+
+(row = reference; col = test)
+
+

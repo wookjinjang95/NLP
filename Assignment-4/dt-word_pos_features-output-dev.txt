@@ -1,0 +1,19 @@
+Results of word_pos_features:
+
+Accuracy    0.56000
+
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<42> 8 |
+positive | 36<14>|
+---------+-------+
+(row = reference; col = test)
+
+

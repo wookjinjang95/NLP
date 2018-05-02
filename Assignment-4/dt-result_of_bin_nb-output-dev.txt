@@ -1,0 +1,19 @@
+Results of result_of_bin_nb:
+
+Accuracy    0.76000
+
+         |  n  p |
+         |  e  o |
+         |  g  s |
+         |  a  i |
+         |  t  t |
+         |  i  i |
+         |  v  v |
+         |  e  e |
+---------+-------+
+negative |<46> 4 |
+positive | 20<30>|
+---------+-------+
+(row = reference; col = test)
+
+

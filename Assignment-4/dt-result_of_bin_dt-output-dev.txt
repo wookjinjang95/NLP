@@ -1,0 +1,19 @@
+Results of result_of_bin_dt:
+
+Accuracy    0.50000
+
+         | n p |
+         | e o |
+         | g s |
+         | a i |
+         | t t |
+         | i i |
+         | v v |
+         | e e |
+---------+-----+
+negative |<1>. |
+positive | 1<.>|
+---------+-----+
+(row = reference; col = test)
+
+
