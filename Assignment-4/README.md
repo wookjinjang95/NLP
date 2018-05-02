@@ -1,6 +1,6 @@
 Instruction for homework assignment 4
 
-**Make sure to download GoogleNews-vectors-negative300.bin <-- this is an open source file can be found anywhere on webstie**
+**Make sure to download GoogleNews-vectors-negative300.bin <-- this is an open source file can be found anywhere on website**
 
   python3 features.py:
 
