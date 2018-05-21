@@ -1,5 +1,7 @@
 Instruction for homework assignment 4
 
+**Make sure to download GoogleNews-vectors-negative300.bin <-- this is an open source file can be found anywhere on website**
+
   python3 features.py:
 
     This command will produce the part 1 and also part 2. Below the features.py,
@@ -17,13 +19,16 @@ Instruction for homework assignment 4
     will be printed on final-result.txt
 
   all-results.txt:
+  
     this file contains most of the results that I generated through the experiment
     from part 1 and part 2. I believe that it's hard to count every experiment you do and store into the
     .txt file.
 
   competition_pickle:
+  
     for competition, I am using the naive bayes from second part of the assignment 4. The feature that
     I selected were word_bin and word_features. Due to lack of time, I never had a chance to do the
     feature seletion, but I believe that will get me result of 70% or above.
 
-  x
+  
+ 
